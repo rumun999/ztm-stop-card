@@ -20,7 +20,7 @@ resources:
     cards:
       - type: custom:ztm_stop_card
         entity: sensor.ztm_...<rest of sensor name>
-      - type: custom:bkk-stop-card
+      - type: custom:ztm_stop_card
         entity: sensor.ztm_ ...<rest of sensor name>
 ```
 
